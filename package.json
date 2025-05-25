@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "typescript": "^5.8.3"
+  },
+  "name": "WebWorker-Concurrent-Processor",
+  "version": "1.0.0",
+  "description": "Concurrent Processor In Browser Using WebWorkers",
+  "main": "index.js",
+  "repository": "git@github.com:chinemelu/WebWorker-Concurrent-Processor.git",
+  "author": "Chinemelu Nwosu <chinemelunwosu@gmail.com>",
+  "license": "MIT",
+  "private": null
+}
